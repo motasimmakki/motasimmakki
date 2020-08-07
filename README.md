@@ -11,7 +11,7 @@
 </samp>
 
 <hr>
-<h3 align="center"> :: Tech Stack Includes :: </h3>
+<h3 align="center"> :: His Tech-Stack Includes :: </h3>
 
 <h4 align='center'>{ Programming Languages }</h4>
 <p align='center'>
