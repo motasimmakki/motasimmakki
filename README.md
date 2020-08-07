@@ -16,6 +16,7 @@
 <h4 align='center'>{ Programming Languages }</h4>
 <p align='center'>
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/java.png" />&nbsp;&nbsp;
+   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/python.png" />&nbsp;&nbsp;
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/c.png" />&nbsp;&nbsp; 
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/c%2B%2B.png" /> <br> <br>
 </p>
