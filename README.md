@@ -11,12 +11,22 @@
 </samp>
 
 <hr>
-<h3 align="center"> :: His Tech-Stack Includes :: </h3>
+<h3 align="center"> :: My Tech-Stack Includes :: </h3>
 
 <h4 align='center'>{ Programming Languages }</h4>
 <p align='center'>
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/java.png" />&nbsp;&nbsp;
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/c.png" />&nbsp;&nbsp; 
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/c%2B%2B.png" /> <br> <br>
+</p>
+<hr>
+
+<h4 align='center'>< Web Technologies /></h4>
+<p align='center'>
+  <img src="https://github.com/motasimmakki/motasimmakki/blob/master/html-5.png" />&nbsp;&nbsp;
+  <img src="https://github.com/motasimmakki/motasimmakki/blob/master/css-3.png" /><br> <br>
+  <img src="https://github.com/motasimmakki/motasimmakki/blob/master/javascript.png" />&nbsp;&nbsp;&nbsp; 
+  <img src="https://github.com/motasimmakki/motasimmakki/blob/master/jquery.png" />&nbsp;&nbsp;&nbsp; 
+  <img src="https://github.com/motasimmakki/motasimmakki/blob/master/nodejs.png" />&nbsp;&nbsp;&nbsp; 
 </p>
 <hr>
