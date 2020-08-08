@@ -39,3 +39,12 @@
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/mongodb.png" />&nbsp;&nbsp;&nbsp; 
 </p>
 <hr>
+
+<h3 align='center'>🔎 Find me around the web 🌎: </h3>
+<p>
+   <img align="left" width="150" height="250" src="https://github.com/motasimmakki/motasimmakki/blob/master/boy.png">
+   <br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/linkedin.png" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://twitter.com/AnomalousVector"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/twitter.png" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/anomalousvector/"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/instagram.png" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
