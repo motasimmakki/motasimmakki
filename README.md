@@ -2,7 +2,7 @@
    
 <p align="center">
 <samp> 
-   <img align="center" src="https://github.com/motasimmakki/motasimmakki/blob/master/My-Tech-Cover.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+   <img align="center" src="https://github.com/motasimmakki/motasimmakki/blob/master/My-Tech-Cover-Pinned.png">
    </samp>
    
 <p align="center">
