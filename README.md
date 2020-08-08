@@ -32,7 +32,7 @@
 </p>
 <hr>
 
-<h4 align='center'>= Database =</h4>
+<h4 align='center'>= Databases =</h4>
 <p align='center'>
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/sql.png" />&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/motasimmakki/motasimmakki/blob/master/pl-sql.png" />&nbsp;&nbsp;&nbsp; 
