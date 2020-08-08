@@ -40,7 +40,7 @@
 </p>
 <hr>
 
-<h3 align='center'>🔎 Find me around the web 🌎: </h3>
+<h3 align='center'>🔎 Find me around the web 🌎</h3>
 <p>
    <img align="left" width="150" height="250" src="https://github.com/motasimmakki/motasimmakki/blob/master/boy.png"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/linkedin.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
