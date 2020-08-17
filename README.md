@@ -50,5 +50,5 @@
 <hr>
 
 <h6 align='center'>
-   / Created with 🧡 By Motasim /
+   / <> with 🧡 By Motasim /
 <h6>
