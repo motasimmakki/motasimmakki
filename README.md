@@ -44,8 +44,8 @@
 <p>
    <img align="left" width="150" height="250" src="https://github.com/motasimmakki/motasimmakki/blob/master/boy.png"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/linkedin.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://twitter.com/AnomalousVector"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/twitter.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/anomalousvector/"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/instagram.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://twitter.com/_motasim_"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/twitter.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/dev.motasim"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/instagram.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 <hr>
 
