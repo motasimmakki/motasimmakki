@@ -2,7 +2,7 @@
    
 <p align="center">
 <samp> 
-   <img align="center" src="https://github.com/motasimmakki/motasimmakki/blob/master/My-Tech-Cover-Pinned.png">
+<!--    <img align="center" src="https://github.com/motasimmakki/motasimmakki/blob/master/My-Tech-Cover-Pinned.png"> -->
    </samp>
    
 <p align="center">
