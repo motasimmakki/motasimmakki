@@ -1,4 +1,4 @@
-   # <h1 align="center">【﻿ɦɛʟʟօ աօʀʟɖ】👋🏼 👨🏼‍💻<h1>
+# <h1 align="center">【﻿ɦɛʟʟօ աօʀʟɖ】👋🏼 👨🏼‍💻<h1>
    
 <p align="center">
 <samp> 
@@ -47,6 +47,8 @@
    <a href="https://twitter.com/_motasim_"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/twitter.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/dev.motasim"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/instagram.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
 <hr>
 
 <h6 align='center'>
