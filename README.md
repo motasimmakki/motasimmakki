@@ -1,5 +1,5 @@
-# <h1 align="center">【﻿ɦɛʟʟօ աօʀʟɖ】👋🏼 👨🏼‍💻<h1>
-   
+# <h1 align="center"> ɧɛƖƖơ ɠɛɛƙʂ <img width="30px" src="https://github.com/motasimmakki/motasimmakki/blob/master/Waving%20Hand.gif" style="max-width:100">👨🏼‍💻<h1>
+
 <p align="center">
 <samp> 
 <!--    <img align="center" src="https://github.com/motasimmakki/motasimmakki/blob/master/My-Tech-Cover-Pinned.png"> -->
