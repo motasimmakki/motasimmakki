@@ -50,8 +50,8 @@
    
 <h3 align="center">📈 GitHub Statistics 📉</h3><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=dracula" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=dracula" alt="languages" height="50%" width="41.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
 </p>
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
