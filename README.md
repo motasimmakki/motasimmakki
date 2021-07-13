@@ -40,14 +40,20 @@
 </p>
 <hr>
 
-<h3 align='center'>🔎 Find me around the web 🌎</h3>
+<h3 align="center">🔎 Find me around the web 🌎</h3>
 <p>
    <img align="left" width="150" height="250" src="https://github.com/motasimmakki/motasimmakki/blob/master/boy.png"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/linkedin.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://twitter.com/_motasim_"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/twitter.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/dev.motasim"> <img src="https://github.com/motasimmakki/motasimmakki/blob/master/instagram.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
-
+</p>
+   
+<h3 align="center">📈 GitHub Statistics 📉</h3><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=dracula" alt="my github stats" height="200"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=dracula" alt="languages" height="200"/>
+</p>
+   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
 <hr>
 
