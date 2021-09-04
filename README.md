@@ -55,6 +55,11 @@
 </p>
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
+   
+<p align="center">
+  <img src="https://github.com/motasimmakki/motasimmakki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <hr>
 
 <h6 align='center'>
