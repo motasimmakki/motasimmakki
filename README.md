@@ -39,13 +39,40 @@
 <hr>
 
 <h3 align="center">🔎 Find me around the web 🌎</h3>
-<p>
-	<img align="right" style="padding:30px;" width="350" height="250" src="./resources/workspace-gif.gif"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img align="left" width="150" height="250" src="./resources/boy.png"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="./resources/linkedin.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/_motasim_"> <img src="./resources/twitter.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.instagram.com/dev.motasim"> <img src="./resources/instagram.png" /> </a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <table align="center" width="100%">
+        <tr>
+          <td align="center">
+            <img width="150" height="250" src="./resources/boy.png">
+          </td>
+          <td align="center">
+            <table align="center" width="100%">
+            <tr>
+              <td align="center">
+                <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="./resources/linkedin.png" /> </a>
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+                <a href="https://twitter.com/_motasim_"> <img src="./resources/twitter.png" /> </a>
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+                <a href="https://www.instagram.com/dev.motasim"> <img src="./resources/instagram.png" /> </a>
+              </td>
+            </tr>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="350" height="250" src="./resources/workspace-gif.gif">
+    </td>
+  </tr>
+</table>
 <hr>
    
 <h3 align="center">📈 GitHub Statistics 📉</h3><br>
