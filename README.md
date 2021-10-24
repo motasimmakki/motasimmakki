@@ -49,21 +49,27 @@
           </td>
           <td align="center">
             <table align="center" width="100%">
-            <tr>
-              <td align="center">
-                <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="./resources/linkedin.png" /> </a>
-              </td>
-            </tr>
-            <tr>
-              <td align="center">
-                <a href="https://twitter.com/_motasim_"> <img src="./resources/twitter.png" /> </a>
-              </td>
-            </tr>
-            <tr>
-              <td align="center">
-                <a href="https://www.instagram.com/dev.motasim"> <img src="./resources/instagram.png" /> </a>
-              </td>
-            </tr>
+              <tr>
+                <td align="center">
+                  <a href="mailto:makkimotasim@gmail.com"> <img src="./resources/gmail.png"/> </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="./resources/linkedin.png" /> </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://twitter.com/_motasim_"> <img src="./resources/twitter.png" /> </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <a href="https://www.instagram.com/dev.motasim"> <img src="./resources/instagram.png" /> </a>
+                </td>
+              </tr>
+            </table>
           </td>
         </tr>
       </table>
@@ -76,16 +82,10 @@
 <hr>
    
 <h3 align="center">📈 GitHub Statistics 📉</h3><br>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img width="85%" src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=tokyonight">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=tokyonight">
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
+</p>
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
    
