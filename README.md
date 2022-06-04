@@ -93,8 +93,6 @@
   <img src="https://github.com/motasimmakki/motasimmakki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<hr>
-
 <p align="center">
   <img src="./resources/Keep%20Coding.gif" alt="keep-coding"></center>
 </p>
