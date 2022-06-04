@@ -1,4 +1,4 @@
-# <h1 align="center"> ɧɛƖƖơ ɠɛɛƙʂ <img width="30px" src="./resources/Waving%20Hand.gif" style="max-width:100">👨🏼‍💻<h1>
+# <h1 align="center"> ɧɛƖƖơ ɠɛɛƙʂ <img src="./resources/Waving%20Hand.gif" style="max-width:100">👨🏼‍💻<h1>
 
 <p align="center">
 <samp> 
