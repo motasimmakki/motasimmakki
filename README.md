@@ -95,6 +95,12 @@
 
 <hr>
 
+<p align="center">
+  <img src="./resources/Keep%20Coding.gif" alt="keep-coding"></center>
+</p>
+
+<hr>
+
 <h5 align='center'>
   / <> with 🧡 By <a href="https://github.com/motasimmakki">Motasim</a> /
 <h5>
