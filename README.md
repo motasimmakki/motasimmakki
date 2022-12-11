@@ -93,6 +93,10 @@
   <img src="https://github.com/motasimmakki/motasimmakki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<h3 align="center"> :: Hopolin Badge Board :: </h3>
+
+[![@motasim's Holopin board](https://holopin.me/motasim)](https://holopin.io/@motasim)
+
 <p align="center">
   <img src="./resources/Keep%20Coding.gif" alt="keep-coding"></center>
 </p>
